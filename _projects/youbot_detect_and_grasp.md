@@ -2,7 +2,7 @@
 layout: project
 title: Object Detction and Grasping with youBot
 date: April 8, 2015
-image: youbot_detect_and_grasp.png
+image: youbot_detect_and_grasp.jpg
 ---
 
 ## Overview
