@@ -145,16 +145,16 @@ When the system is operating on the bar, it has a mostly linear response up to a
 
 Bar Recorded Waveforms | Bar FFTs
 ----|----
-<img src="http://mattmongeon.github.io/portfolio/public/images/bar_5hz_waveform.png" alt="Bar 5Hz Waveform" style="width:600px">|<img src="http://mattmongeon.github.io/portfolio/public/images/bar_5hz_fft.png" alt="Bar 5Hz FFT" style="width:600px">
-<img src="http://mattmongeon.github.io/portfolio/public/images/bar_20hz_waveform.png" alt="Bar 20Hz Waveform" style="width:600px">|<img src="http://mattmongeon.github.io/portfolio/public/images/bar_20hz_fft.png" alt="Bar 20Hz FFT" style="width:600px">
+<img src="http://mattmongeon.github.io/portfolio/public/images/bar_5hz_waveform.png" alt="Bar 5Hz Waveform" style="width:550px">|<img src="http://mattmongeon.github.io/portfolio/public/images/bar_5hz_fft.png" alt="Bar 5Hz FFT" style="width:550px">
+<img src="http://mattmongeon.github.io/portfolio/public/images/bar_20hz_waveform.png" alt="Bar 20Hz Waveform" style="width:550px">|<img src="http://mattmongeon.github.io/portfolio/public/images/bar_20hz_fft.png" alt="Bar 20Hz FFT" style="width:550px">
 
 These plots show recorded waveforms and corresponding FFTs for the BioTac.
 
 BioTac Recorded Waveforms | BioTac FFTs
 ----|----
-<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_7hz_waveform.png" alt="BioTac 7Hz Waveform" style="width:600px">|<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_7hz_fft.png" alt="BioTac 7Hz FFT" style="width:600px">
-<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_13hz_waveform.png" alt="BioTac 13Hz Waveform" style="width:600px">|<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_13hz_fft.png" alt="BioTac 13Hz FFT" style="width:600px">
-<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_20hz_waveform.png" alt="BioTac 20Hz Waveform" style="width:600px">|<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_20hz_fft.png" alt="BioTac 20Hz FFT" style="width:600px">
+<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_7hz_waveform.png" alt="BioTac 7Hz Waveform" style="width:550px">|<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_7hz_fft.png" alt="BioTac 7Hz FFT" style="width:550px">
+<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_13hz_waveform.png" alt="BioTac 13Hz Waveform" style="width:550px">|<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_13hz_fft.png" alt="BioTac 13Hz FFT" style="width:550px">
+<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_20hz_waveform.png" alt="BioTac 20Hz Waveform" style="width:550px">|<img src="http://mattmongeon.github.io/portfolio/public/images/biotac_20hz_fft.png" alt="BioTac 20Hz FFT" style="width:550px">
 
 Notice the harmonics that appear in the BioTac plots but not in the bar.  Also notice that these harmonics have higher and higher amplitudes relative to the reference frequency as well as the other harmonics.
 
