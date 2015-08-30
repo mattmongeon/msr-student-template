@@ -171,3 +171,7 @@ The closed-loop system contains its own non-linearities, such as those inherent 
 
 [1] C. H. Lin, J. A. Fishel and G. E. Loeb, "Extracting Point of Contact, Force and Torque in a Biomimetic Tactile Sensor with Deformable Skin", SynTouch LLC, 2013
 
+
+## Source Code
+
+The source code used in this project can be found [here](https://github.com/mattmongeon/finger_force_control).
