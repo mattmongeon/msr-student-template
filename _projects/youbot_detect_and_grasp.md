@@ -1,6 +1,6 @@
 ---
 layout: project
-title: Object Detction and Grasping with youBot
+title: Object Detection and Grasping with youBot
 date: April 8, 2015
 image: youbot_detect_and_grasp.jpg
 ---
@@ -12,5 +12,8 @@ This project uses two ROS packages called [youbot_object_grasp](https://github.c
 
 The pcl_auto_seg project contains all of the image processing code.  One node handles picking up the block from the RGBD stream using PCL, and another node uses OpenCV to find the block in the RGB stream to allow the youBot to position itself relative to the block to prepare for grasping.
 
-See a video of this project [here](https://vimeo.com/126804484).  This video shows the robot picking up the block and returning to the start position.
+The video below shows the robot picking up the block and returning to the start position.
+
+<iframe src="https://player.vimeo.com/video/126804484" width="500" height="281" frameborder="0" webkitallowfullscreen mozallowfullscreen allowfullscreen></iframe>
+<p><a href="https://vimeo.com/126804484">youBot Block Detection and Grasping</a> from <a href="https://vimeo.com/user39869467">Matt Mongeon</a> on <a href="https://vimeo.com">Vimeo</a>.</p>
 
